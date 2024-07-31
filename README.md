@@ -1,4 +1,4 @@
-#🔍 Project Overview:
+🔍 #Project Overview:
 
 I'm excited to share my recent project where I explored the fascinating intersection of communication and technology. Using an Arduino Nano, a laser, an LDR (Light Dependent Resistor), and a resistor, I successfully transmitted Morse code through Li-Fi (Light Fidelity). To enhance user experience, I developed a Python-based GUI to display the received text.
 
