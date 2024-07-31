@@ -18,11 +18,6 @@ Receiving Signal: The LDR captures the light pulses, which are then decoded back
 Displaying Text: The decoded text is sent to a Python-based GUI, which visually represents the received message in real-time.
 
 
-💡Key Takeaways:
-
-Innovation in Communication: This project demonstrates how Li-Fi can be used for data transmission in a unique and efficient way.
-Hands-On Learning: Working with Arduino, basic electronic components, and Python deepens understanding of both hardware and software aspects of communication technologies.
-Future Potential: Li-Fi has potential applications in various fields such as secure communications, underwater data transfer, and more.
 
 # Hardware Connections :
 -Sender:
